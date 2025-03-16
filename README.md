@@ -8,7 +8,7 @@ A multipage education website built with HTML, CSS, and a touch of JavaScript. I
 ### Homepage
 ![Homepage](images/homepage.png)
 
-### Alternative Homepage View
+### Homepage - Lower Section
 ![Homepage Alternative](images/homepage2.png)
 
 ### Contact Page
