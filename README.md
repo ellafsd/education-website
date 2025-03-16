@@ -11,11 +11,11 @@ A multipage education website built with HTML, CSS, and a touch of JavaScript. I
 ### Homepage - Lower Section
 ![Homepage Alternative](images/homepage2.png)
 
-### Contact Page
-![Contact Page](images/contact.png)
-
 ### Meet Our Team - Hover Effect
-![Meet Our Team - Hover Effect](images/ew1.png)  <br><br><br>
+![Meet Our Team - Hover Effect](images/ew1.png) 
+
+### Contact Page
+![Contact Page](images/contact.png)<br><br><br>
 
 
 
