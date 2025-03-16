@@ -6,7 +6,7 @@ A multipage education website built with HTML, CSS, and a touch of JavaScript. I
 
 
 # 📚 Education Website
-A **responsive** multi-page education website built using **HTML, CSS, and JavaScript**. This platform provides an interactive and user-friendly experience for users looking to explore educational courses, read testimonials, and contact instructors.<br><br>
+A **responsive** multi-page education website built using **HTML, CSS, and JavaScript**. This platform provides an interactive and user-friendly experience for users looking to explore educational courses, read testimonials, and contact instructors.<br><br><br>
 
 
 ## ✨ Features
@@ -22,7 +22,7 @@ A **responsive** multi-page education website built using **HTML, CSS, and JavaS
 - 🔍 **Learn More Button**: Clicking the button on any course directs users to more information.
 ### Contact Page
 - 📞 **Contact Form**: Users can fill out a form to reach out for inquiries.
-- 📲 **Social Media Links**: Links to official **Facebook, Instagram, Twitter, and LinkedIn**. <br><br>
+- 📲 **Social Media Links**: Links to official **Facebook, Instagram, Twitter, and LinkedIn**. <br><br><br>
 
 
 ### General Features
