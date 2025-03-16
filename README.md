@@ -2,7 +2,21 @@
 A multipage education website built with HTML, CSS, and a touch of JavaScript. Includes interactive navigation, hover effects, a course catalog, FAQs, and a testimonial slider.<br><br>
 
 
-## Live Demo [Click here to view the live site](https://ellafsd.github.io/education-website-template/ ) <br><br>
+## Live Demo [Click here to view the live site](https://ellafsd.github.io/education-website-template/ ) <br><br><br>
+
+## 📸 Screenshots
+### Homepage
+![Homepage](images/homepage.png)
+
+### Alternative Homepage View
+![Homepage Alternative](images/homepage2.png)
+
+### Contact Page
+![Contact Page](images/contact.png)
+
+### Meet Our Team - Hover Effect
+![Meet Our Team - Hover Effect](images/ew1.png)  <br><br><br>
+
 
 
 # 📚 Education Website
