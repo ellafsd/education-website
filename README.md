@@ -1,12 +1,12 @@
 # Education Website Template
-A multipage education website built with HTML, CSS, and a touch of JavaScript. Includes interactive navigation, hover effects, a course catalog, FAQs, and a testimonial slider.
+A multipage education website built with HTML, CSS, and a touch of JavaScript. Includes interactive navigation, hover effects, a course catalog, FAQs, and a testimonial slider.<br><br>
 
 
-## Live Demo [Click here to view the live site](https://ellafsd.github.io/education-website-template/ ) 
+## Live Demo [Click here to view the live site](https://ellafsd.github.io/education-website-template/ ) <br><br>
 
 
 # 📚 Education Website
-A **responsive** multi-page education website built using **HTML, CSS, and JavaScript**. This platform provides an interactive and user-friendly experience for users looking to explore educational courses, read testimonials, and contact instructors.
+A **responsive** multi-page education website built using **HTML, CSS, and JavaScript**. This platform provides an interactive and user-friendly experience for users looking to explore educational courses, read testimonials, and contact instructors.<br><br>
 
 
 ## ✨ Features
@@ -22,14 +22,14 @@ A **responsive** multi-page education website built using **HTML, CSS, and JavaS
 - 🔍 **Learn More Button**: Clicking the button on any course directs users to more information.
 ### Contact Page
 - 📞 **Contact Form**: Users can fill out a form to reach out for inquiries.
-- 📲 **Social Media Links**: Links to official **Facebook, Instagram, Twitter, and LinkedIn**.
+- 📲 **Social Media Links**: Links to official **Facebook, Instagram, Twitter, and LinkedIn**. <br><br>
 
 
 ### General Features
 - 🌗 **Light/Dark Mode Toggle**: Switch between light and dark themes.
 - 🎞 **Movie List Carousel**: Scroll through available courses using left/right arrows.
 - 🖱️ **Hover Effects**: Interactive hover effects on team members and course items.
-- 📱 **Responsive Design**: Optimized for desktop, tablet, and mobile devices.
+- 📱 **Responsive Design**: Optimized for desktop, tablet, and mobile devices. <br><br>
 
 
 ## 🛠 Technologies Used
