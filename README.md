@@ -1,5 +1,5 @@
 # Education Website Template
-A multipage education website built with HTML, CSS, and a touch of JavaScript. Includes interactive navigation, hover effects, a course catalog, FAQs, and a testimonial slider.<br><br>
+A **responsive** multi-page education website built using **HTML, CSS, and JavaScript**. This platform provides an interactive and user-friendly experience for users looking to explore educational courses, read testimonials, and contact instructors,  .<br><br><br>
 
 
 ## Live Demo [Click here to view the live site](https://ellafsd.github.io/education-website-template/ ) <br><br><br>
@@ -16,11 +16,6 @@ A multipage education website built with HTML, CSS, and a touch of JavaScript. I
 
 ### Contact Page
 ![Contact Page](images/contact.png)<br><br><br>
-
-
-
-# 📚 Education Website
-A **responsive** multi-page education website built using **HTML, CSS, and JavaScript**. This platform provides an interactive and user-friendly experience for users looking to explore educational courses, read testimonials, and contact instructors.<br><br><br>
 
 
 ## ✨ Features
