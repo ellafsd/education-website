@@ -5,14 +5,17 @@ A **responsive** multi-page education website built using **HTML, CSS, and JavaS
 ## Live Demo [Click here to view the live site](https://ellafsd.github.io/education-website-template/ ) <br><br><br>
 
 
+
 ## 📺 Live Preview
 ### 🏠 Homepage
-![Homepage Preview](https://raw.githubusercontent.com/ellafsd/education-website-template/main/images/homepage.gif)
-![Contact Page Preview](https://raw.githubusercontent.com/ellafsd/education-website-template/main/images/homepage2.gif) 
-###Team
-![Contact Page Preview](https://raw.githubusercontent.com/ellafsd/education-website-template/main/images/ew1.gif)
+![Homepage Preview](https://raw.githubusercontent.com/ellafsd/education-website/main/images/homepage.gif)
+
 ### 📞 Contact Page
-![Contact Page Preview](https://raw.githubusercontent.com/ellafsd/education-website-template/main/images/contact.gif)<br><br>
+![Contact Page Preview](https://raw.githubusercontent.com/ellafsd/education-website/main/images/contact.gif)
+
+### 👥 Team
+![Team Page Preview](https://raw.githubusercontent.com/ellafsd/education-website/main/images/ew1.gif)
+<br><br>
 
 
 ## 📸 Screenshots
