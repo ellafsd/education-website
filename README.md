@@ -6,7 +6,7 @@ A **responsive** multi-page education website built using **HTML, CSS, and JavaS
 
 
 
-## 📺 Live Preview
+<!-- ## 📺 Live Preview
 ### 🏠 Homepage
 ![Homepage Preview](https://raw.githubusercontent.com/ellafsd/education-website/main/images/homepage.gif)
 ![](https://github.com/ellafsd/education-website/blob/main/images/homepage2.gif)
@@ -16,7 +16,7 @@ A **responsive** multi-page education website built using **HTML, CSS, and JavaS
 
 ### 👥 Team
 ![Team Page Preview](https://github.com/ellafsd/education-website/blob/main/images/ew1.png)
-<br><br>
+<br><br>   -->
 
 
 ## 📸 Screenshots
